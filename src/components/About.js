@@ -28,8 +28,6 @@ const [first, setfirst] = useState("enable dark mode");
     }
  }
 
-
-
   return (
     <>
   
